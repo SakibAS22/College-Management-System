@@ -21,7 +21,9 @@ Student Login:
 User: student@gmail.com 
 Password: 123
 Admin Login:
-URL: http://scweb.businesswithtechnology.com/login 
+User:- admin@gmail.com
+Password:- 123
+login 
 User: webadmin@gmail.com 
 Password: 123
 
